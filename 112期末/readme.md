@@ -35,6 +35,9 @@ Space Engineers是一款宇宙尺度的開放世界沙盒遊戲，遊戲內提�
 
 ## 實際運作成果
 
+### 原型機
+![image](https://github.com/ccccourse/sp111b/assets/36965820/51bbeddc-1c64-4e2a-ad24-40fb4ed460d7)
+
 ### 執行中截圖
 ![image](https://github.com/st741963456/Space-Engineer-Scripts/assets/36965820/563501dc-6670-4bf1-be5b-a1343f39b788)
 
